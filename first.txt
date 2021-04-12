@@ -1,2 +1,4 @@
 1. git practice
 2. 今からcommitします。
+git add
+git commit
