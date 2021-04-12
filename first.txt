@@ -2,3 +2,5 @@
 2. 今からcommitします。
 git add
 git commit
+git rm
+git status
